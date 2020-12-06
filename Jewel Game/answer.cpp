@@ -1,7 +1,5 @@
 #include<bits/stdc++.h>
-
 using namespace std;
-
 int main()
 {
 int t;
@@ -20,12 +18,9 @@ s.erase(s.begin()+i);
 s.erase(s.begin()+i);
 i=-1;
 m=m-2;
-
 }
 }
 cout<<n<<endl;
-
-
 }
 return 0;
 }
